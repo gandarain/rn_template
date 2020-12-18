@@ -4,6 +4,10 @@
 - react-native start
 - react-native run-android
 
+# Requirement
+- Xcode 12
+- React native 0.63.4
+
 # Setup your own project
 ### Install native base
 npm install native-base --save
