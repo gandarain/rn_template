@@ -1,3 +1,7 @@
+# Starter template react native
+Basic template for react native.
+In this template contains native base, react-native-vector-icons and custom fonts open sans.
+
 # How to run
 - npm install
 - pod install
